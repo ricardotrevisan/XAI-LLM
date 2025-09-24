@@ -1,4 +1,4 @@
-# Projeto Python: Análise de Embeddings e Explicabilidade de Modelos de Texto
+# Análise de Embeddings e Explicabilidade de Modelos de Texto
 
 Este projeto tem como objetivo analisar e interpretar a influência de palavras em prompts de modelos de linguagem utilizando embeddings e técnicas de explicabilidade como SHAP.
 
